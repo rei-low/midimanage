@@ -1,2 +1,2 @@
 # midimanage
-two midi management externals for Max on macOS that allow you to route midi anywhere, specifically for Max for Live device support.
+A MIDI management external for Max on macOS that allows you to receive MIDI from anywhere, specifically for Max for Live device support.
