@@ -1,0 +1,3 @@
+/Users/brax/max-sdk/source/misc/midiio/build/CMakeFiles/midiio.dir
+/Users/brax/max-sdk/source/misc/midiio/build/CMakeFiles/ALL_BUILD.dir
+/Users/brax/max-sdk/source/misc/midiio/build/CMakeFiles/ZERO_CHECK.dir

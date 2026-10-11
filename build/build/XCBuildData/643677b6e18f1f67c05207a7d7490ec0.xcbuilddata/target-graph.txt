@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'midiio' in project 'midiio'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'midiio'
+Target 'ZERO_CHECK' in project 'midiio' (no dependencies)
