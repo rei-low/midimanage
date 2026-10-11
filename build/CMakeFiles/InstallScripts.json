@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/Users/brax/max-sdk/source/misc/midiio/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
