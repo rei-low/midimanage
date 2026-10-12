@@ -5,3 +5,4 @@ Select your device to listen to.
 Send that to a [prepend device] object or message with 'device $1'
 Now a MIDI instrument can be selected per object for use. 
 _Note_ They're MIDI bytes, so you'll need a MIDI parse object.
+*See Helpfile for sample workflow*
